@@ -3,3 +3,6 @@ VS first line
 
 
 Started a bare-knuckle fist fight in a Wendy's parking lot with the assistant manager 
+
+Fixed issues #234
+
