@@ -1,2 +1,4 @@
 Bash First Line
 VS first line
+
+Fixed issues #234
